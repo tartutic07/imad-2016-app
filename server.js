@@ -13,7 +13,6 @@ app.get('/article-one', function (req, res) {
   res.send("Article-one will be here");
 });
 
-
 app.get('/article-two', function (req, res) {
   res.send("Article-two will be here");
 });
